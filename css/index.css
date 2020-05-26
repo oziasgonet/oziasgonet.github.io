@@ -63,6 +63,10 @@ br {
     vertical-align: middle;
 }
 
+.h3 {
+    color: #579DE3;
+}
+
 html, body, .container-table {
     height: 90%;
 }
